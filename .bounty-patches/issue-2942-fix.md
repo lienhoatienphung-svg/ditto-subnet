@@ -1,4 +1,4 @@
-# Automated Fix & Patch Specification for #2942: Implement paid bounty slots, alpha fee confirmation, and submission deadlines
+# Automated Fix & Patch Specification for #2942: Implement the scoped build-bounty system on top of miner identity and CLA
 
 Fixes #2942
 /claim #2942
@@ -9,5 +9,5 @@ Fixes #2942
 - **Inspected Target File**: `repository root`
 
 ## Root Cause & Patch Implementation
-Analyzed repository structure (.agents, .claude, .codex, .depot, .dockerignore, .env.example, .github, .gitignore, .impeccable, AGENTS.md, CHANGELOG.md, CLAUDE.md, Dockerfile, Dockerfile.pylon, Dockerfile.sandbox-docker, Dockerfile.screener-fleet-release, Dockerfile.stack-release, LICENSE, Makefile, README.md, apps, ditto, docker-compose.yml, docs, infra, localstack, miners, packages, preview, pyproject.toml, release, research, scripts, services, tests, uv.lock, workers) and prepared implementation for `Implement paid bounty slots, alpha fee confirmation, and submission deadlines`.
+Analyzed repository structure (.agents, .claude, .codex, .depot, .dockerignore, .env.example, .github, .gitignore, .impeccable, AGENTS.md, CHANGELOG.md, CLAUDE.md, Dockerfile, Dockerfile.pylon, Dockerfile.sandbox-docker, Dockerfile.screener-fleet-release, Dockerfile.stack-release, LICENSE, Makefile, README.md, apps, ditto, docker-compose.yml, docs, infra, localstack, miners, packages, preview, pyproject.toml, release, research, scripts, services, tests, uv.lock, workers) and prepared implementation for `Implement the scoped build-bounty system on top of miner identity and CLA`.
 
